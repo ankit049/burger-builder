@@ -1,0 +1,7 @@
+@media (min-width: 768px) {
+  .app {
+    min-height: 100vh;
+    display: grid;
+    align-items: center;
+  }
+}
